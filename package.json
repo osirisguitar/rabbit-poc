@@ -1,0 +1,11 @@
+{
+  "name": "rabbitpoc",
+  "version": "0.0.0",
+  "private": true,
+  "author": {
+    "name": "Besedo Dev Team"
+  },
+  "dependencies": {
+    "amqp": "https://github.com/postwait/node-amqp/tarball/master"
+  }
+}
